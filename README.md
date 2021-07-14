@@ -1,1 +1,1 @@
-# Awesome-Loading-Animation-HTML-CSS
+# Awesome Loading Animation | HTML & CSS
